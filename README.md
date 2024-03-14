@@ -1,2 +1,2 @@
-# PCSE25-40
+# Plant Disease Classification
 PCSE25-40
