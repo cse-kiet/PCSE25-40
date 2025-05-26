@@ -44,7 +44,6 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/KananMahammadli/Tomato-Disease-Classification.git
 cd Tomato-Disease-Classification
 Install dependencies
 
