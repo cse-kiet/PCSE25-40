@@ -1,7 +1,7 @@
 # Title of Project: [Tomato Leaf Disease Classification Using CNNs]
 
 ## Team Members:
-1. [Harsh kumar Singh]
+1. [Harsh Kumar Singh]
 2. [Prateek Kumar]
 3. [Prince Rauniyar]
 
