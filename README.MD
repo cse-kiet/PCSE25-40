@@ -44,6 +44,7 @@ Clone the repository
 bash
 Copy
 Edit
+git clone https://github.com/cse-kiet/PCSE25-40.git
 cd Tomato-Disease-Classification
 Install dependencies
 
